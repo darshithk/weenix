@@ -21,3 +21,13 @@ Toy Linux Kernel Development
 		% make clean
     	% make
     	% ./weenix -n
+
+##### Documentation
+* The weenix documentation is in documentation.pdf
+	- introduces weenix to you
+	- detailed instructions on project
+
+* The following are Implemented
+	- Processes and Threads (PROCS)
+	- Virtual File System (VFS)
+	- Virtual Memory (VM)
