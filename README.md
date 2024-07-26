@@ -1,4 +1,4 @@
-# weenix
+# Weenix
 Toy Linux Kernel Development
 
 ##### Download and Setup
